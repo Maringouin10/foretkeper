@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>carte foret</name>
+	<gx:CascadingStyle kml:id="__managed_style_24E8C2584E3BE2EF55F4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1987EB3A473BE2EF55F4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13A643DA543BE2F05988">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_06FAE81C1F3BE2EF55F4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1987EB3A473BE2EF55F4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24E8C2584E3BE2EF55F4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2ACABFD4213BE2F05988">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>9</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_096ECD63073BE2F05988">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13A643DA543BE2F05988</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2ACABFD4213BE2F05988</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C99234CBD3BE2EE62AC">
+		<name>blouclee principale</name>
+		<LookAt>
+			<longitude>-73.33583797037397</longitude>
+			<latitude>45.26572305270052</latitude>
+			<altitude>47.67940858360643</altitude>
+			<heading>266.701987554611</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>212.3127899561223</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_096ECD63073BE2F05988</styleUrl>
+		<LineString>
+			<coordinates>
+				-73.33435482922881,45.26567007015583,0 -73.33465954242156,45.26562751512321,0 -73.33478730142194,45.26566900405867,0 -73.33495438888264,45.26567653954493,0 -73.33506695547229,45.26559905126826,0 -73.3355355162542,45.26559737056209,0 -73.33586481143544,45.26557001245682,0 -73.33602204614473,45.26558777425497,0 -73.33635012104116,45.26557911492001,0 -73.33660306984808,45.26559595600756,0 -73.33681275945423,45.26556232757154,0 -73.33694409027412,45.26557985063501,0 -73.33710290352373,45.26566559772575,0 -73.33724675076601,45.26577413678177,0 -73.3370577543905,45.26579035417069,0 -73.33694052594359,45.26577451971691,0 -73.33686229059659,45.26576158965663,0 -73.33673802367348,45.26574157272772,0 -73.33656076902702,45.2657540014787,0 -73.33640818172188,45.26576023674775,0 -73.33626040722768,45.2657560619197,0 -73.33599921609317,45.26571472233123,0 -73.3359442710568,45.26568109446045,0 -73.33594143037621,45.26557919617569,0 -73.33589831124655,45.26568455214724,0 -73.33578646318607,45.26570813033314,0 -73.33564305439474,45.26575747085949,0 -73.33542863155486,45.26574218819876,0 -73.3352948720342,45.26567950043633,0 -73.33528687701121,45.26559727528092,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0793BDDC983BE2EF24F4">
+		<name>chemin secondaire</name>
+		<LookAt>
+			<longitude>-73.3361193879918</longitude>
+			<latitude>45.26548693974139</latitude>
+			<altitude>47.63342602166547</altitude>
+			<heading>266.7019850666277</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>435.364874220395</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06FAE81C1F3BE2EF55F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-73.33631125420555,45.26558398981697,0 -73.33638751999148,45.26550074759149,0 -73.33656703314912,45.26549946084602,0 -73.33665712845169,45.26559005979043,0 -73.33672767815931,45.2657432006729,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0CA940F5993BE2EF9DE8">
+		<name>boucle ouverte</name>
+		<LookAt>
+			<longitude>-73.33495577805851</longitude>
+			<latitude>45.26553610662182</latitude>
+			<altitude>47.74990583662179</altitude>
+			<heading>266.7028097591072</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>435.2483836060129</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_06FAE81C1F3BE2EF55F4</styleUrl>
+		<LineString>
+			<coordinates>
+				-73.33507215173893,45.26559983429642,0 -73.33498436580757,45.26573374159965,0 -73.33474368176147,45.26574348032974,0 -73.33447316707682,45.26574281475019,0 -73.33442467549381,45.26566582497739,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
